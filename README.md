@@ -6,7 +6,7 @@ Few steps I did for better visualization of sales analysis using conditional for
 Did table headers and title bold , added solid border around the table , centrally aligning all cells in table, gave light green color to title and light blue color to header, changed title font to ‘Georgia’ and increased title font size to 20, removed gridlines from the sheet , did conditional formatting for item cost column item cost above 499 have red paint in it for better difference between higher cost items and lower cost items took 499 as average item cost same thing done for number of items which cells have more than 10 filled with red, did conditional formatting for total cost of items using Gradient data bars.
 
 PIVOT CHARTS
-A pivot chart in Microsoft Excel is a graphical representation of data created from a pivot table. Pivot charts allow you to visualize and analyze data dynamically, making it easier to identify patterns, trends, and insights. Here's how you can create a pivot chart in Excel:
+-A pivot chart in Microsoft Excel is a graphical representation of data created from a pivot table. Pivot charts allow you to visualize and analyze data dynamically, making it easier to identify patterns, trends, and insights. Here's how you can create a pivot chart in Excel:
 
 Step 1: Prepare Your Data:
 Ensure that your data is organized in a tabular format, with headers for each column. Make sure your data doesn't have any empty rows or columns.
