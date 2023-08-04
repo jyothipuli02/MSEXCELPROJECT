@@ -1,2 +1,3 @@
 # MSEXCELPROJECT
- Database essentially provides a general  summary of how a coding site or coding platform works
+ – Creative Visualisation of sales of various products of a furniture shop in different regions through conditional
+formatting and interactive pivot charts.
